@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+body {
+    background: #f6e68b;
+    background: linear-gradient(90deg, #f6e68b 2%, #ab9d4f 92%); }
+    
+header .portada {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4rem;
+    margin-bottom: 2rem;
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.5rem;
+    gap: 2rem; }
+    header .portada .imagenportada {
+        border-radius: 80%; }
+    header .portada h1 {
+        text-align: center; }
+
+main .container {
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+main .table {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+/* Version PC */
+@media screen and (min-width: 1024px) {
+    header .cajamenu .navbar .itemsmenu {
+      margin-left: 37%; }
+      header .cajamenu .navbar .itemsmenu .linkmenu {
+        display: none; }}

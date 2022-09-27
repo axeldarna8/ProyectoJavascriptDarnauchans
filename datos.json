@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 150,
+      "id": 1,
+      "titulo": "Capuccino",
+      "thumbnailUrl": "images/capuccino1.png"
+    },
+    {
+      "precio": 100,
+      "id": 2,
+      "titulo": "Espresso",
+      "thumbnailUrl": "images/espresso1.png"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "titulo": "Té",
+      "thumbnailUrl": "images/tecito1.png"
+    },
+    {
+      "precio": 180,
+      "id": 4,
+      "titulo": "Gaseosa",
+      "thumbnailUrl": "images/cocacola1.png"
+    },
+    {
+      "precio": 120,
+      "id": 5,
+      "titulo": "Licuado",
+      "thumbnailUrl": "images/licuado1.png"
+    },
+    {
+      "precio": 170,
+      "id": 6,
+      "titulo": "Cerveza",
+      "thumbnailUrl": "images/cerveza1.png"
+    }
+  ]
